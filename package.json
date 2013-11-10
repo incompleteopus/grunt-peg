@@ -42,6 +42,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "pegjs": "~0.7.0"
+    "pegjs": "git://github.com/dmajda/pegjs.git#c6efb337f10a9f0e8b8dd3a8c7d02e58d9ac0c04"
   }
 }
